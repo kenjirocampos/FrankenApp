@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FrankenApp</string>
+    <string-array name="Colores">
+        <item>Blanco</item>
+        <item>Negro</item>
+        <item>Rojo</item>
+        <item>Amarillo</item>
+        <item>Azul</item>
+    </string-array>
+</resources>
